@@ -1,0 +1,5 @@
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsCuadrado\AppsCuadrado\bin\Debug\AppsCuadrado.exe.config
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsCuadrado\AppsCuadrado\bin\Debug\AppsCuadrado.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsCuadrado\AppsCuadrado\bin\Debug\AppsCuadrado.pdb
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsCuadrado\AppsCuadrado\obj\Debug\AppsCuadrado.exe
+D:\Universidad\8 SEMESTRE\TELEMATICA\C char\AppsCuadrado\AppsCuadrado\obj\Debug\AppsCuadrado.pdb
